@@ -68,7 +68,7 @@ Functions used: VLOOKUP, INDEX MATCH, SUM, COUNTA, Pivot Tables, Advanced Filter
 
 | SQL Outputs | KPI Summary | MIS Report |
 |-------------|-------------|------------|
-| ![sql](screenshots/screenshot_sql_outputs.png) | ![kpi](screenshots/screenshot_kpi_summary.png) | ![mis](screenshots/screenshot_mis_summary.png) |
+| ![sql](ss_sql_outputs.png) | ![kpi](ss_kpi_summary.png) | ![mis](ss_mis_summary) |
 
 ## 🛠️ Tools Used
 
